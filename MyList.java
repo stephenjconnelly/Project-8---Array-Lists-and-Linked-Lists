@@ -3,6 +3,7 @@ import java.util.Iterator;
 /**
  * Interface used by MyArrayList and MyLInkedList
  * @author Stephen Connelly sjc2235
+ * @author Brian Borowski
  * @version 1.0 October 6th, 2022
  *
  *
